@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ihsan</h1>
-<h3 align="center">Junior Web Developer, with expertise in Front End and Back End Development, strong analytical and have good problem solving, i have proficiency at HTML, CSS, Javascript, ReactJS, Node.js, ExpressJS, MySQL, and MongoDB, also i'm experienced and certified Network Engineer</h3>
+<h1 align="center">Hi 👋, I'm Ihsan</h1>
+<h3 align="center">Self-Taught, with expertise in Front End and Back End Development, strong analytical and have good problem solving, i have proficiency at HTML, CSS, Javascript, ReactJS, Node.js, ExpressJS, MySQL, and MongoDB, have a big dream to spread knowledges to all edges of Indonesia and World</h3>
 
-- 🔭 I’m currently working on [Remotify](https://github.com/NeoGlanding/Fearless-Five)
+- 🔭 I’m currently working on [Embreo Pte Ltd](https://embreo.global)
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently learning **React Native, C++, Typescript, & Vue.js** 
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ihsanrtp@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEpUBvmqXg/y6TQ6qqCPBFOkoq9_e19xg/view?utm_content=DAEpUBvmqXg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEpUBvmqXg/y6TQ6qqCPBFOkoq9_e19xg/view?utm_content=DAEpUBvmqXg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [Checkout My CV!](https://www.canva.com/design/DAEpUBvmqXg/y6TQ6qqCPBFOkoq9_e19xg/view?utm_content=DAEpUBvmqXg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 - ⚡ Fun fact **I think i'm Bruce Wayne**
 
