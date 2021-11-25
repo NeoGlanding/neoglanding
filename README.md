@@ -1,4 +1,4 @@
-<h1 align="justify">Hi 👋, I'm Ihsan</h1>
+<h1 align="center">Hi 👋, I'm Ihsan</h1>
 <h3 align="justify">Self-Taught Developer, with expertise in Front End and Back End Development, strong analytical and have good problem solving, i have proficiency at HTML, CSS, Javascript, ReactJS, Node.js, ExpressJS, MySQL, and MongoDB, have a big dream to spread knowledges to all edges of Indonesia and World</h3>
 
 - 🔭 I’m currently working as Full Stack Engineer at [Embreo Pte Ltd](https://embreo.global)
