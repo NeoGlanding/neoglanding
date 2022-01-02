@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Full Stack Engineer at [Embreo Pte Ltd](https://embreo.global)
 
-- 🌱 I’m currently learning **React Native, C++, Typescript, & Vue.js** 
+- 🌱 I’m currently learning **Typescript, Vue.js, & Angular** 
 
 - 💬 Ask me about **Anything**
 
