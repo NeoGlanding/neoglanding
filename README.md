@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Motorans](https://github.com/NeoGlanding/GP3-Basugor)
+- 🔭 I’m currently working as Full Stack Engineer at [Embreo Pte Ltd](https://embreo.global)
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently learning **Typescript, Vue.js, and Angular.js**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ihsanrtp@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEpUBvmqXg/y6TQ6qqCPBFOkoq9_e19xg/view?utm_content=DAEpUBvmqXg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEpUBvmqXg/y6TQ6qqCPBFOkoq9_e19xg/view?utm_content=DAEpUBvmqXg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences [Checkout my CV!](https://www.canva.com/design/DAEpUBvmqXg/y6TQ6qqCPBFOkoq9_e19xg/view?utm_content=DAEpUBvmqXg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-- ⚡ Fun fact **I think i'm Bruce Wayne**
+- ⚡ Fun fact **I want to go to other universes, and find me in Multiverse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
