@@ -1,4 +1,4 @@
-![image](https://free4kwallpapers.com/uploads/wallpaper/%C3%B6wl.-wallpaper_-1024x768-wallpaper.jpg)
+![image](teahub.io-twitter-wallpapers-2376520.jpg)
 
 Passionate Software Engineer, with interest in both front and back end development, proficient in MERN Stack, happy to discuss, design, develop, and release applications from scratch, and able to translate business flow and requirements into technical solutions.
 
