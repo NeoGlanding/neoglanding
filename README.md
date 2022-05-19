@@ -1,3 +1,5 @@
+![image](https://free4kwallpapers.com/uploads/wallpaper/%C3%B6wl.-wallpaper_-1024x768-wallpaper.jpg)
+
 Passionate Software Engineer, with interest in both front and back end development, proficient in MERN Stack, happy to discuss, design, develop, and release applications from scratch, and able to translate business flow and requirements into technical solutions.
 
 Previously working as Network Engineer and System Administrator with more than 2 years of experience helps me to understand the infrastructure site of application.
