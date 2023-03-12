@@ -7,7 +7,5 @@ Passionate Software Engineer, with interest in both front and back end developme
 
 Previously working as Network Engineer and System Administrator with more than 2 years of experience helps me to understand the infrastructure site of application.
 
-Besides of coding stuff, interest in mix martial arts, football, and motorcycle stuff, open to discuss about those topics and don't forget to do a morning ride.
-
 ![](https://github-readme-stats.vercel.app/api?username=NeoGlanding&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoGlanding&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
