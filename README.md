@@ -6,6 +6,3 @@
 Passionate Software Engineer, with interest in both front and back end development, proficient in MERN Stack, happy to discuss, design, develop, and release applications from scratch, and able to translate business flow and requirements into technical solutions.
 
 Previously working as Network Engineer and System Administrator with more than 2 years of experience helps me to understand the infrastructure site of application.
-
-![](https://github-readme-stats.vercel.app/api?username=NeoGlanding&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoGlanding&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
